@@ -1,0 +1,42 @@
+\begin{thebibliography}{6}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Brownlees and Engle(2015)}]{Brownlees_Engle:2015}
+Brownlees, C. and Engle, R. (2015).
+\newblock {S}{R}{I}{S}{K}: A conditional capital shortfall index for systemic
+  risk measurement.
+\newblock Working paper.
+
+\bibitem[{Fahlenbrach {\em et~al.\/}(2016)Fahlenbrach, Prilmeier, and
+  Stulz}]{Fahlenbrach_et_al:2016}
+Fahlenbrach, R., Prilmeier, R., and Stulz, R.~M. (2016).
+\newblock Why does fast loan growth predict poor performance for banks?
+\newblock {N}{B}{E}{R} Working Paper number 22089.
+
+\bibitem[{{{Federal Reserve Board}}(2003)}]{FRB:2003}
+{{Federal Reserve Board}} (2003).
+\newblock Global integration in the banking industry.
+\newblock Federal Reserve Bulletin.
+
+\bibitem[{Foster and Hart(2009)}]{FH:2009}
+Foster, D.~P. and Hart, S. (2009).
+\newblock An operational measure of riskiness.
+\newblock {\em Journal of Political Economy\/}, {\em 117\/}(5), 785--814.
+
+\bibitem[{Haas and Pigorsch(2009)}]{Haas:2009}
+Haas, M. and Pigorsch, C. (2009).
+\newblock {\em Complex Systems in Finance and Econometrics\/}, New York:
+  Springer, chap. Financial Economics, Fat-Tailed Distributions.
+\newblock 308--339.
+
+\bibitem[{Rachev {\em et~al.\/}(2005)Rachev, Stoyanov, Biglova, and
+  Fabozzi}]{Rachev:2005b}
+Rachev, S.~T., Stoyanov, S., Biglova, A., and Fabozzi, F. (2005).
+\newblock {\em Data Analysis and Decision Support\/}, Berlin: Springer, chap.
+  An Empirical Examination of Daily Stock Return Distributions for {U}{S}
+  Stocks.
+
+\end{thebibliography}

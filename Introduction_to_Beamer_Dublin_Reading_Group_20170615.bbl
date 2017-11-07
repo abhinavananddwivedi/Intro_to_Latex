@@ -1,0 +1,18 @@
+\begin{thebibliography}{2}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{H{\"u}ser(2015)}]{Huser:2015}
+H{\"u}ser, A.-C. (2015).
+\newblock Too interconnected to fail: A survey of the interbank networks
+  literature.
+\newblock {S}{A}{F}{E} Working Paper Number 91.
+
+\bibitem[{{{International Monetary Fund}}(2009)}]{IMF:2009}
+{{International Monetary Fund}} (2009).
+\newblock Assessing the systemic implications of financial linkages.
+\newblock Global Financial Stability Review, Apr09, 73–110.
+
+\end{thebibliography}

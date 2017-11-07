@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Introduction_to_Latex_Dublin_Reading_Group_20170615.aux
+The style file: StyWorking_Paper.bst
+Database file #1: Introduction_to_Bibliography_Dublin_Reading_Group_20170615.bib
+Warning--missing institution in Brownlees_Engle:2015
+Warning--can't use both author and editor fields in Haas:2009
+Warning--can't use both author and editor fields in Rachev:2005b
+Warning--empty pages in Rachev:2005b
+You've used 6 entries,
+            2832 wiz_defined-function locations,
+            626 strings with 5826 characters,
+and the built_in function-call counts, 3326 in all, are:
+= -- 273
+> -- 134
+< -- 6
++ -- 50
+- -- 42
+* -- 244
+:= -- 522
+add.period$ -- 17
+call.type$ -- 6
+change.case$ -- 44
+chr.to.int$ -- 6
+cite$ -- 10
+duplicate$ -- 244
+empty$ -- 242
+format.name$ -- 64
+if$ -- 652
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 50
+newline$ -- 36
+num.names$ -- 24
+pop$ -- 115
+preamble$ -- 1
+purify$ -- 38
+quote$ -- 0
+skip$ -- 90
+stack$ -- 0
+substring$ -- 129
+swap$ -- 127
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 4
+while$ -- 23
+width$ -- 0
+write$ -- 81
+(There were 4 warnings)
